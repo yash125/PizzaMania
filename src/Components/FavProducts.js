@@ -27,7 +27,7 @@ const FavProducts = () =>{
             <div className="card-text"><i>Topping info<i className="fa fa-info-circle fa-x "  data-tip data-for="registerTip"></i></i><br/></div>
             <ReactTooltip id="registerTip" place="top" effect="solid">
             Sausage, caramelized onions, and fennel.
-Pepperoni, tomatoes, mushrooms, and onion.
+Pepperoni, tomatoes, mushrooms, and onion   .
       </ReactTooltip>
       <p>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             <a href="#" className="btn btn-primary">Add to Cart</a>
